@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+
+*.pyc
+
+.vscode/
+.venv/
+
+_dsa/
+_devs/
+
+annot.ipynb
+info.md
